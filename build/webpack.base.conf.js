@@ -1,3 +1,9 @@
+// Установить все зависимости
+// npm install
+// Запустить сервер для дев разработки (http://localhost:8081/)
+// npm run dev
+// Команда для деплоя (папка на выходе будет как dist)
+// npm run build
 
 const path = require('path');
 const fs = require('fs');
